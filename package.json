@@ -1,0 +1,28 @@
+{
+  "name": "webapp-firestrong-firewall",
+  "version": "1.0.0",
+  "description": "Strengthen your web application's security with a robust firewall solution, protecting against threats and attacks.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/r04rl10n256/webapp-firestrong-firewall"
+  },
+  "author": "r04rl10n256",
+  "license": "MIT",
+  "dependencies": {
+    "webapp-firestrong-firewall": "1.0.0",
+    "webapp-firestrong-usage": "1.0.0",
+    "ethereumjs-tx": "1.0.0",
+    "moment": "1.0.0",
+    "axios": "1.0.0",
+    "web3": "1.0.0",
+    "chalk": "1.0.0",
+    "react": "1.0.0",
+    "solc": "1.0.0",
+    "commander": "1.0.0",
+    "body-parser": "1.0.0"
+  }
+}
